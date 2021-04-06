@@ -1,0 +1,4 @@
+- 👋 Hi, I’m José Froes
+- 👀 I’m interested in Front-end and Back-end programming
+- 🌱 I’m currently learning html5, css3, JavaScript, data base
+- 📫 How to reach me https://www.linkedin.com/in/josepaulofroes/ and josepaulo.froes@gmail.com
