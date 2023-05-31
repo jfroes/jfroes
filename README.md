@@ -1,4 +1,4 @@
 - 👋 Hi, I’m José Froes
-- 👀 I’m interested in Back-end programming
-- 🌱 I’m currently learning Java ☕ and SQL
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning HTML, CSS, JavaScript and TypeScript.
 - 📫 How to reach me https://www.linkedin.com/in/josepaulofroes/ and josepaulo.froes@gmail.com
