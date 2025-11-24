@@ -14,7 +14,7 @@
 
 ## 🛠️ Tecnologias que uso
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items:center;  gap: 0px 25px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items:center;  gap: 0px 25px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="98" alt="Java" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="100" alt="Spring Boot" title="Spring Boot"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="80" alt="PostgreSQL" title="PostgreSQL"/>
