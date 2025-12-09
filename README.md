@@ -20,7 +20,7 @@ Backend:
 ![Java](https://img.shields.io/badge/Java-F44336?logo=openjdk&logoColor=white&style=for-the-badge)
 ![Spring](https://img.shields.io/badge/Spring-%23589133?style=for-the-badge&logo=spring&logoColor=white)
 
-Frontend
+Frontend:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML-F44336?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS-FF8F00?logo=css&logoColor=white&style=for-the-badge)
